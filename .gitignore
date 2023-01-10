@@ -1,0 +1,8 @@
+/vendor/*
+
+*/files
+*/private
+
+/.docker-local/.env
+.idea/*
+/node_modules/*
